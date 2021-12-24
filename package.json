@@ -1,0 +1,9 @@
+{
+  "name": "gh-custom-action-pull-request",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mochi-sann/gh-custom-action-pull-request.git",
+  "author": "mochi-sann <44772513+mochi-sann@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
